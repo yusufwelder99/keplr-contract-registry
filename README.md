@@ -29,7 +29,7 @@ Here’s an overview of the structure of the directory. Please provide the infor
 Please note that you need to comply with our requirements when filling out the form. See the next section to learn the details.
 ```json
 {
-  "contractAddress": "juno1epxnvge53c4hkcmqzlxryw5fp7eae2utyk6ehjcfpwajwp48km3sgxsh9k",
+  "contractAddress": "536d79960732c5443313f10f1f30e74e14a3e5dcc20ddd7a4e3ea921ff68564e",
   "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/pepec.png",
   "metadata": {
     "name": "PEPE on Cosmos",
